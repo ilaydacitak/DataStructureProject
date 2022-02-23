@@ -6,3 +6,4 @@ The data structures used are:
 -Double Linked-list
 -Binary Search Tree
 -Hash Table
+  
